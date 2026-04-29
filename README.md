@@ -1,0 +1,1 @@
+Em instituições financeiras, a detecção de fraude precisa ser rápida e precisa. Este projeto utiliza Isolation Forest (Detecção de Anomalias) para identificar comportamentos suspeitos em transações bancárias, visando reduzir prejuízos e proteger o cliente final.
